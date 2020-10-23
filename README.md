@@ -7,7 +7,7 @@
 
 ## Proyectos
 
-- 🍉 KiroBot - [KiroBot](holasoyender.gitbook.io/kirobot)
+- 🍉 KiroBot - [KiroBot](https://holasoyender.gitbook.io/kirobot)
 - ⚙️ holasoyenderAPI
 - 🎮 AntiFortnite Bot - [AntiFortnite](https://github.com/holasoyender/AntiFortnite-Bot)
 - 🖥️ Copiar a neyi todo lo que pueda
