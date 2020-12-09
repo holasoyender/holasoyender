@@ -9,7 +9,7 @@
 
 - 🍉 KiroBot - [KiroBot](https://holasoyender.gitbook.io/kirobot)
 - ⚙️ holasoyenderAPI
-- 🎮 AntiFortnite Bot - [AntiFortnite](https://github.com/holasoyender/AntiFortnite-Bot)
+- 🎯 ΛTLΛS - [ΛTLΛS](https://github.com/holasoyender)
 - 🖥️ Copiar a neyi todo lo que pueda
 
 ---
