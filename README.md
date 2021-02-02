@@ -16,7 +16,7 @@
 
 ### Estadisticas
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=holasoyender&count_private=true)](https://github.com/holasoyender)
+[![Stats](https://github-readme-stats.vercel.app/api?username=holasoyender&count_private=true&theme=dark)](https://github.com/holasoyender)
 
 <br />
 
