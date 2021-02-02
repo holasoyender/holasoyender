@@ -20,5 +20,5 @@
 
 <br />
 
-[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoyender)](https://github.com/holasoyender)
+[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoyender&theme=dark)](https://github.com/holasoyender)
 
