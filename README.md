@@ -16,9 +16,9 @@
 
 ### Estadisticas
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=holasoyender&count_private=true&theme=dark)](https://github.com/holasoyender)
+[![Stats](https://github-readme-stats.vercel.app/api?username=holasoyender&count_private=true&theme=dark&locale=es&include_all_commits=true&show_icons=true&hide=prs,contribs)](https://github.com/holasoyender)
 
 <br />
 
-[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoyender&theme=dark)](https://github.com/holasoyender)
+[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoyender&theme=dark&layout=compact)](https://github.com/holasoyender)
 
