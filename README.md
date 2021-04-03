@@ -7,7 +7,7 @@
 
 ## Proyectos
 
-- 🍉 KiroBot - [KiroBot](https://holasoyender.gitbook.io/kirobot)
+- 🍉 KiroBot - [KiroBot](https://www.kirobot.cc)
 - ⚙️ holasoyenderAPI
 - 🎯 ΛTLΛS - [ΛTLΛS](https://github.com/holasoyender)
 - 🖥️ Copiar a neyi todo lo que pueda
