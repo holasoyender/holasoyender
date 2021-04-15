@@ -8,9 +8,8 @@
 ## Proyectos
 
 - 🍉 KiroBot - [KiroBot](https://www.kirobot.cc)
-- ⚙️ holasoyenderAPI
-- 🎯 ΛTLΛS - [ΛTLΛS](https://github.com/holasoyender)
-- 🖥️ Copiar a neyi todo lo que pueda
+- ☠️ myender.v 
+- 🎯 Squirrel - [SquirrelLoader](https://github.com/holasoyender/SquirrelLoader)
 
 ---
 
