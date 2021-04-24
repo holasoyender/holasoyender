@@ -10,7 +10,7 @@
 - 🍉 KiroBot - [KiroBot](https://www.kirobot.cc)
 - ☠️ myender.v 
 - 🧭 Horus - [Horus.dll](https://github.com/holasoyender/Horus)
-- 🎯 Squirrel - [SquirrelLoader](https://github.com/holasoyender/SquirrelLoader)
+- 🎯 Squirrel - [SquirrelLoader.exe](https://github.com/holasoyender/SquirrelLoader)
 
 ---
 
