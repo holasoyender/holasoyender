@@ -7,7 +7,7 @@
 
 ## Proyectos
 
-- 🍉 KiroBot - [KiroBot](https://www.kirobot.cc)
+- 🍉 deKiro - [kirobot.cc](https://www.kirobot.cc)
 - ☠️ myender.v 
 - 🧭 Horus - [Horus.dll](https://github.com/holasoyender/Horus)
 - 🎯 Squirrel - [SquirrelLoader.exe](https://github.com/holasoyender/SquirrelLoader) [SquirrelLoaderBinary.exe](https://github.com/holasoyender/SquirrelLoader-binary)
