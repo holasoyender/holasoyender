@@ -20,8 +20,3 @@
 <br />
 
 [![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoyender&theme=dark&layout=compact)](https://github.com/holasoyender)
-
-
-## Literalmente yo haciendo C++:
-<img src="https://cdn.discordapp.com/attachments/859486644578025472/903758100018905098/a.gif">
-
