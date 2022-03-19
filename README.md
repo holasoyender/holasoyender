@@ -20,3 +20,7 @@
 <br />
 
 [![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoyender&langs_count=10&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20usados)](https://github.com/holasoyender)
+
+### Estado
+
+[![STATUS](https://lanyard-profile-readme.vercel.app/api/396683727868264449?animated=true&idleMessage=no%20estoy%20haciendo%20nada%20lol&hideDiscrim=true)](https://github.com/holasoyender)
