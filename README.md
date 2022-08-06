@@ -7,9 +7,8 @@
 
 ## Proyectos
 
+- 🎵 KenaBot - [kenabot.xyz](https://www.kenabot.xyz?ref=gitender) - [Open Source](https://github.com/KenaBot)
 - 🍉 deKiro - [kirobot.cc](https://www.kirobot.cc)
-- ☠️ myender.v 
-- 🎯 Squirrel - [SquirrelLoader.exe](https://github.com/holasoyender/SquirrelLoader) [SquirrelLoaderBinary.exe](https://github.com/holasoyender/SquirrelLoader-binary)
 
 ---
 
