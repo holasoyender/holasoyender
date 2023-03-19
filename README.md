@@ -57,3 +57,11 @@ KenaBot would not exist without our sponsors, who help us to keep the bot always
 </div>
 
 </details>
+
+<a href="https://discord.gg/ibai">
+    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1087032734494502932/km.png' width='10%' style="border-radius: 25px">
+</a>
+
+### Kenamaster / mini-ender
+
+mini-ender is a complete Discord bot focused on moderating large servers, used in production in **[Ibai's discord server](https://discord.gg/ibai)** and strongly inspired by projects like **[LA CABRA](https://lacabra.app)**. Fully open source, the code can be found [here](https://github.com/holasoyender/mini-ender)
