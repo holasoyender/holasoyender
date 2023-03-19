@@ -65,3 +65,20 @@ KenaBot would not exist without our sponsors, who help us to keep the bot always
 ### Kenamaster / mini-ender
 
 mini-ender is a complete Discord bot focused on moderating large servers, used in production in **[Ibai's discord server](https://discord.gg/ibai)** and strongly inspired by projects like **[LA CABRA](https://lacabra.app)**. Fully open source, the code can be found [here](https://github.com/holasoyender/mini-ender)
+<br>
+More information can be found inside the repo.
+
+
+<a href="https://github.com/holasoyender/SquirrelLoader">
+    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1087038323345862767/cs.png' width='10%' style="border-radius: 25px">
+</a>
+
+### SquirrelLoader
+
+SquirrelLoader is a DLL injector for the popular game `Couter-Strike: Global Offensive`, which can be used in memory or with an external `.dll` file. Created for educational purposes only, and is not intended to be used in a real game.
+
+---
+
+<center>
+    <p align="center">copyright © holasoyender 2019 - Now</p>
+</center>
