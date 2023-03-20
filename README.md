@@ -32,7 +32,7 @@ hello :wave: i'm ender, a spanish backend developer from madrid who doesn't know
 
 ### KenaBot
 
-KenaBot is the biggest Discord music bot in the Spanish-speaking community, using the biggest Spanish Discord servers like `Ibai`, `Spreen`, `Among Us Español` and many more! Serving more than **24M users** with the best music quality possible!
+KenaBot is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers like `Ibai`, `Spreen`, `Among Us Español` and many more! Serving more than **24M users** with the best music quality possible!
 <details>
   <summary>:zap: Read more about KenaBot</summary>
   
