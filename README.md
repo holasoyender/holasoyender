@@ -8,7 +8,7 @@ hello :wave: i'm ender, a spanish backend developer from madrid who doesn't know
 
 ### languajes i know, or at least i try to understand
 
-[![langs](https://skillicons.dev/icons?i=c,cpp,kotlin,java,rust,js,ts)](https://github.com/holasoyender)
+[![langs](https://skillicons.dev/icons?i=c,cpp,kotlin,scala,java,rust,js,ts)](https://github.com/holasoyender)
 
 ### tools i use
 [![tools](https://skillicons.dev/icons?i=aws,cmake,cloudflare,docker,kubernetes,git,gradle,grafana,prometheus,mongodb,postgres,redis,nodejs,visualstudio,discord)](https://github.com/holasoyender)
