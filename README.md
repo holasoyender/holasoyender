@@ -6,7 +6,7 @@
 
 hello :wave: i'm ender, a spanish backend developer from madrid who doesn't know what capital letters are and hates everything related to c++. if you want to see some of the cool stuff I make keep reading :)))))
 
-### languajes i know, or at least i try to understand
+### languages i know, or at least i try to understand
 
 [![langs](https://skillicons.dev/icons?i=c,cpp,kotlin,scala,java,rust,js,ts)](https://github.com/holasoyender)
 
