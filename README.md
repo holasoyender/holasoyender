@@ -32,7 +32,7 @@ hello :wave: i'm ender, a spanish backend developer from madrid who doesn't know
 
 ### KenaBot
 
-KenaBot is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers like `Ibai`, `Spreen`, `Among Us Español` and many more! Serving more than **24M users** with the best music quality possible!
+KenaBot is the biggest Discord music bot in the Spanish-speaking community, used by the biggest Spanish Discord servers like `Ibai`, `Spreen`, `Among Us Español` and many more! Serving more than **26M users** with the best music quality possible!
 <details>
   <summary>:zap: Read more about KenaBot</summary>
   
@@ -69,13 +69,23 @@ mini-ender is a complete Discord bot focused on moderating large servers, used i
 More information can be found inside the repo.
 
 
-<a href="https://github.com/holasoyender/SquirrelLoader">
-    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1087038323345862767/cs.png' width='10%' style="border-radius: 25px">
+<a href="https://developer.nvidia.com/gpu-accelerated-libraries">
+    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1111702448789262396/nv.png' width='10%' style="border-radius: 25px">
 </a>
 
-### SquirrelLoader
+### NVIDIA
 
-SquirrelLoader is a DLL injector for the popular game `Couter-Strike: Global Offensive`, which can be used in memory or with an external `.dll` file. Created for educational purposes only, and is not intended to be used in a real game.
+Working as an external contributor in public and internal NVIDIA projects, such as `CUDA-X`, `PhysX`, internal development tools and optimization libraries for artificial intelligence training such as `RIVA` or `TensorRT` among others. I also help to maintain `CUVIlib`, used by the defense departments of several countries.
+
+
+<a href="https://www.lacabra.app/">
+    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1111710024499200050/lc.png' width='10%' style="border-radius: 25px">
+</a>
+
+### LA CABRA
+
+LA CABRA is the biggest moderation bot in the whole Spanish speaking community on Discord, my job in this project is to develop and maintain the functionality of the bot, adding new things and suggestions from the users.
+
 
 ---
 
