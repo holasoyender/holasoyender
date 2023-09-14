@@ -1,4 +1,8 @@
 
+<div align="center">
+	<img src="main.gif">
+</div>
+
 <center>
     <h1 align="center">holasoyender</h1>
     <h4 align="center">i dont even know how to write my name properly.</h4>
