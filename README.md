@@ -31,7 +31,7 @@ hello :wave: i'm ender, a spanish backend developer from madrid who doesn't know
 
 ## cool projects im working on
 <a href="https://kenabot.xyz">
-    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1087018762651312169/avatar.png' width='10%' style="border-radius: 25px">
+    <img align='left' src='https://imgur.com/a4lhmBZ' width='10%' style="border-radius: 25px">
 </a>
 
 ### KenaBot
@@ -47,23 +47,23 @@ KenaBot would not exist without our sponsors, who help us to keep the bot always
 
 <div id="images">
   <a href="https://www.jetbrains.com/">
-    <img src="https://cdn.discordapp.com/attachments/839400943517827092/1087026959806124103/jb.png" width='20%'>
+    <img src="https://imgur.com/kTERw3a" width='20%'>
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://cdn.discordapp.com/attachments/839400943517827092/1087026480866930718/aws.png" width='20%'>
+    <img src="https://imgur.com/IbqDug2" width='20%'>
   </a>
   <a href="https://www.twitch.tv/ibai">
-    <img src="https://cdn.discordapp.com/attachments/839400943517827092/1087026481064054794/ibai.png" width='20%'>
+    <img src="https://imgur.com/BdgxnJF" width='20%'>
   </a>
   <a href="https://oracle.com">
-    <img src="https://cdn.discordapp.com/attachments/839400943517827092/1087028696927449230/oracle.png" width='20%'>
+    <img src="https://imgur.com/dCrP36D" width='20%'>
   </a>
 </div>
 
 </details>
 
 <a href="https://discord.gg/ibai">
-    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1087032734494502932/km.png' width='10%' style="border-radius: 25px">
+    <img align='left' src='https://imgur.com/77hiVnm' width='10%' style="border-radius: 25px">
 </a>
 
 ### Kenamaster / mini-ender
@@ -74,7 +74,7 @@ More information can be found inside the repo.
 
 
 <a href="https://developer.nvidia.com/gpu-accelerated-libraries">
-    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1111702448789262396/nv.png' width='10%' style="border-radius: 25px">
+    <img align='left' src='https://imgur.com/tLYMOK8' width='10%' style="border-radius: 25px">
 </a>
 
 ### NVIDIA
@@ -83,7 +83,7 @@ Working as an external contributor in public and internal NVIDIA projects, such 
 
 
 <a href="https://www.lacabra.app/">
-    <img align='left' src='https://cdn.discordapp.com/attachments/839400943517827092/1111710024499200050/lc.png' width='10%' style="border-radius: 25px">
+    <img align='left' src='https://imgur.com/fGmIwkx' width='10%' style="border-radius: 25px">
 </a>
 
 ### LA CABRA
