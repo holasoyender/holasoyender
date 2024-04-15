@@ -8,7 +8,7 @@
     <h4 align="center">i dont even know how to write my name properly.</h4>
 </center>
 
-hello :wave: i'm ender, a spanish backend developer from madrid who doesn't know what capital letters are and hates everything related to c++. if you want to see some of the cool stuff I make keep reading :)))))
+hello :wave: i'm ender, a spanish software engineer from madrid who doesn't know what capital letters are and hates everything related to c++. if you want to see some of the cool stuff I make keep reading :)))))
 
 ### languages i know, or at least i try to understand
 
