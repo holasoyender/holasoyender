@@ -31,7 +31,7 @@ hello :wave: i'm ender, a spanish software engineer from madrid who doesn't know
 
 ## cool projects im working on
 <a href="https://kenabot.xyz">
-    <img align='left' src='https://imgur.com/a4lhmBZ' width='10%' style="border-radius: 25px">
+    <img align='left' src='https://i.imgur.com/a4lhmBZ.png' width='10%' style="border-radius: 25px">
 </a>
 
 ### KenaBot
@@ -47,23 +47,23 @@ KenaBot would not exist without our sponsors, who help us to keep the bot always
 
 <div id="images">
   <a href="https://www.jetbrains.com/">
-    <img src="https://imgur.com/kTERw3a" width='20%'>
+    <img src="https://imgur.com/kTERw3a.png" width='20%'>
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://imgur.com/IbqDug2" width='20%'>
+    <img src="https://imgur.com/IbqDug2.png" width='20%'>
   </a>
   <a href="https://www.twitch.tv/ibai">
-    <img src="https://imgur.com/BdgxnJF" width='20%'>
+    <img src="https://imgur.com/BdgxnJF.png" width='20%'>
   </a>
   <a href="https://oracle.com">
-    <img src="https://imgur.com/dCrP36D" width='20%'>
+    <img src="https://imgur.com/dCrP36D.png" width='20%'>
   </a>
 </div>
 
 </details>
 
 <a href="https://discord.gg/ibai">
-    <img align='left' src='https://imgur.com/77hiVnm' width='10%' style="border-radius: 25px">
+    <img align='left' src='https://imgur.com/77hiVnm.png' width='10%' style="border-radius: 25px">
 </a>
 
 ### Kenamaster / mini-ender
@@ -74,7 +74,7 @@ More information can be found inside the repo.
 
 
 <a href="https://developer.nvidia.com/gpu-accelerated-libraries">
-    <img align='left' src='https://imgur.com/tLYMOK8' width='10%' style="border-radius: 25px">
+    <img align='left' src='https://imgur.com/tLYMOK8.png' width='10%' style="border-radius: 25px">
 </a>
 
 ### NVIDIA
@@ -83,7 +83,7 @@ Working as an external contributor in public and internal NVIDIA projects, such 
 
 
 <a href="https://www.lacabra.app/">
-    <img align='left' src='https://imgur.com/fGmIwkx' width='10%' style="border-radius: 25px">
+    <img align='left' src='https://imgur.com/fGmIwkx.png' width='10%' style="border-radius: 25px">
 </a>
 
 ### LA CABRA
